@@ -1,4 +1,4 @@
-from modulop import Tamagotchi
+from moduloT1 import Tamagotchi
 
 class persona:
     def __init__(self,nombre,apellido):

@@ -24,4 +24,3 @@ class Tamagotchi:
 
     def __str__(self):
         return f"tamagotchi :{self.nombre}, color:{self.color}, salud:{self.salud},energia:{self.energia},felicidad:{self.felicidad}"
-
